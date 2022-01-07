@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../madole/madole.xyz-next/.idea/madole.xyz-next.iml" filepath="$PROJECT_DIR$/../../../madole/madole.xyz-next/.idea/madole.xyz-next.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/polygon-stress-test.iml" filepath="$PROJECT_DIR$/.idea/polygon-stress-test.iml" />
     </modules>
   </component>
