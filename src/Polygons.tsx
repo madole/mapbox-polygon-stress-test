@@ -53,7 +53,7 @@ const Polygons: React.VFC<Props> = ({boundingBox, numberOfPolygons, numberOfVert
 };
 
 export default (props: {boundingBox: number[]}) => {
-    const values = useControls({
+    const values = useControls('Polygon configuration', {
         numberOfPolygons: {
             value: 10,
             min: 1,

@@ -1077,14 +1077,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["@stitches/react", [
         ["npm:1.2.6", {
-          "packageLocation": "./.yarn/cache/@stitches-react-npm-1.2.6-a7b2da8f9b-416088cdde.zip/node_modules/@stitches/react/",
+          "packageLocation": "./.yarn/unplugged/@stitches-react-virtual-1379b7deee/node_modules/@stitches/react/",
           "packageDependencies": [
             ["@stitches/react", "npm:1.2.6"]
           ],
           "linkType": "SOFT",
         }],
         ["virtual:e33d79b678dfbb33ddeadecc1d2289166c71b03d0d7331a9d0c4fdd4416e36998bf6c16505761cdb4ed029c8bb4fa366a19a8fdc0463eea28a23cd1f05e7cd81#npm:1.2.6", {
-          "packageLocation": "./.yarn/__virtual__/@stitches-react-virtual-1379b7deee/0/cache/@stitches-react-npm-1.2.6-a7b2da8f9b-416088cdde.zip/node_modules/@stitches/react/",
+          "packageLocation": "./.yarn/unplugged/@stitches-react-virtual-1379b7deee/node_modules/@stitches/react/",
           "packageDependencies": [
             ["@stitches/react", "virtual:e33d79b678dfbb33ddeadecc1d2289166c71b03d0d7331a9d0c4fdd4416e36998bf6c16505761cdb4ed029c8bb4fa366a19a8fdc0463eea28a23cd1f05e7cd81#npm:1.2.6"],
             ["@types/react", "npm:17.0.38"],
